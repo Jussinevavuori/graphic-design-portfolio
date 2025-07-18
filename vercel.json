@@ -1,0 +1,10 @@
+{
+	"outputDirectory": "public",
+	"builds": [],
+	"routes": [
+		{
+			"src": "/(.*)",
+			"dest": "/index.html"
+		}
+	]
+}
